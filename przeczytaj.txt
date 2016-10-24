@@ -1,0 +1,2 @@
+Plik schemat.fzz otwiera siê w programie: fritzing
+Link do oficjalnej strony programu: http://fritzing.org/home/
