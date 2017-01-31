@@ -1,5 +1,5 @@
 # NSTeam
-Praca na konkurs Hackathon “Hack Heroes”
+Praca na konkurs „Interaktywny produkt IT”
 
 Na jakie potrzeby odpowiada Wasze rozwiązanie?
 Podjeliśmy próbę rozwiązania problemu dotyczącego skrzyżowania z sygnalizacją świetlną, który dotyczy bezpośrednio mieszkańców naszego miasta. Postanowiliśmy usprawnić działanie sygnalizacji świetlnej poprzez możliwość ustawienia czterech różnych trybów w zalezności od pory dnia i natężenia ruchu na skrzyżowaniu. Pierwszą z opcjii jest tryb automatyczny, w którym światła zmieniają się cyklicznie na określony czas, druga to możliwość manualnego sterowania oświetleniem w celu rozładowania korków, trzecia opcja to tryb nocny, który automatycznie wykrywa nadjeżdżający pojazd i załączając światło zielone pozwala  mu sprawnie pokonać skrzyżowanie. Czwarte dostępne ustawienie naszej aplikacji przełącza sygnalizację w stan awaryjny (migające światła pomarańczowe). Aplikacja realizuje co najmniej trzy z wymienionych założeń konkursowych:1) transport, 2) turystyka (bezproblemowy przejazd przez przyjazną turystom aglomerację), 3) ekologia (krótszy postój w korku, mniejsze spalanie paliwa, czystsze środowisko). Wszystkie opisane wcześniej opcje są dostępne poprzez wybór odpowiedniego przełącznika zamieszczonego na przygotowanej makiecie skrzyżowania.  
@@ -18,3 +18,5 @@ Nasze rozwiązanie jest prototypem, którego wdrożenie wymagałoby przeprowadze
 
 Dlaczego akurat Wy powinniście wygrać?
 Nasz pomysł nie skupia się wyłącznie na aplikacji, ale wykorzystuje również elementy elektroniczne tj. mikrokontroler Arduino, czujniki ruchu, switche, expandery. Projekt realizuje co najmniej trzy założenia konkursowe tj. transport, turystyka, ekelogia, poprawiając przy tym w znaczący sposób komfort życia mieszkańców. Wykonanie projektu aplikacji oraz makiety wymagało wielu godzin pracy i pozyskania pewnych nakładów pieniężnych na zakup niezbędnej elektroniki. Ewentualna wygrana poświęcona byłaby na rozwijanie zainteresowań informatycznych naszej grupy i szkoły. 
+
+Filmik: https://www.youtube.com/watch?v=jFaT10U7gOU
